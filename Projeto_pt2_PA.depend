@@ -1,0 +1,301 @@
+# depslib dependency file v1.0
+1628993267 source:c:\users\ariel\desktop\thiago\cutbox.cpp
+	"CutBox.h"
+
+1628993267 c:\users\ariel\desktop\thiago\cutbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628993267 c:\users\ariel\desktop\thiago\sculptor.h
+	<string>
+
+1628993267 c:\users\ariel\desktop\thiago\figurageometrica.h
+	"Sculptor.h"
+
+1628993267 source:c:\users\ariel\desktop\thiago\cutellipsoid.cpp
+	"CutEllipsoid.h"
+	<cmath>
+
+1628993267 c:\users\ariel\desktop\thiago\cutellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628993267 source:c:\users\ariel\desktop\thiago\cutsphere.cpp
+	"CutSphere.h"
+
+1628993267 c:\users\ariel\desktop\thiago\cutsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628993267 source:c:\users\ariel\desktop\thiago\cutvoxel.cpp
+	"CutVoxel.h"
+
+1628993267 c:\users\ariel\desktop\thiago\cutvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656023580 source:c:\users\ariel\desktop\thiago\interpretador.cpp
+	"Interpretador.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"PutVoxel.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"CutBox.h"
+	"PutSphere.h"
+	"CutSphere.h"
+	"PutEllipsoid.h"
+	"CutEllipsoid.h"
+
+1628993267 c:\users\ariel\desktop\thiago\interpretador.h
+	<vector>
+	<string>
+	"FiguraGeometrica.h"
+
+1628993267 c:\users\ariel\desktop\thiago\putvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628993267 c:\users\ariel\desktop\thiago\putbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628993267 c:\users\ariel\desktop\thiago\putsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1628993267 c:\users\ariel\desktop\thiago\putellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656023098 source:c:\users\ariel\desktop\thiago\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	"Sculptor.h"
+	"Interpretador.h"
+
+1628993267 source:c:\users\ariel\desktop\thiago\putbox.cpp
+	"PutBox.h"
+
+1628993267 source:c:\users\ariel\desktop\thiago\putellipsoid.cpp
+	"PutEllipsoid.h"
+	<cmath>
+
+1628993267 source:c:\users\ariel\desktop\thiago\putsphere.cpp
+	"PutSphere.h"
+
+1628993267 source:c:\users\ariel\desktop\thiago\putvoxel.cpp
+	"PutVoxel.h"
+
+1628993267 source:c:\users\ariel\desktop\thiago\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstdlib>
+	<iomanip>
+
+1656026007 source:c:\users\ariel\desktop\thiago\thiago\cutbox.cpp
+	"CutBox.h"
+
+1656027463 c:\users\ariel\desktop\thiago\thiago\cutbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027887 c:\users\ariel\desktop\thiago\thiago\sculptor.h
+	<string>
+
+1656027672 c:\users\ariel\desktop\thiago\thiago\figurageometrica.h
+	"Sculptor.h"
+
+1656026158 source:c:\users\ariel\desktop\thiago\thiago\cutellipsoid.cpp
+	"CutEllipsoid.h"
+	<cmath>
+
+1656027672 c:\users\ariel\desktop\thiago\thiago\cutellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656026158 source:c:\users\ariel\desktop\thiago\thiago\cutsphere.cpp
+	"CutSphere.h"
+
+1656027671 c:\users\ariel\desktop\thiago\thiago\cutsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656026604 source:c:\users\ariel\desktop\thiago\thiago\cutvoxel.cpp
+	"CutVoxel.h"
+
+1656027672 c:\users\ariel\desktop\thiago\thiago\cutvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027981 source:c:\users\ariel\desktop\thiago\thiago\interpretador.cpp
+	"Interpretador.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"PutVoxel.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"CutBox.h"
+	"PutSphere.h"
+	"CutSphere.h"
+	"PutEllipsoid.h"
+	"CutEllipsoid.h"
+
+1656027932 c:\users\ariel\desktop\thiago\thiago\interpretador.h
+	<vector>
+	<string>
+	"FiguraGeometrica.h"
+
+1656027671 c:\users\ariel\desktop\thiago\thiago\putvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027672 c:\users\ariel\desktop\thiago\thiago\putbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027672 c:\users\ariel\desktop\thiago\thiago\putsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027671 c:\users\ariel\desktop\thiago\thiago\putellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027986 source:c:\users\ariel\desktop\thiago\thiago\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	"Sculptor.h"
+	"Interpretador.h"
+
+1656026795 source:c:\users\ariel\desktop\thiago\thiago\putbox.cpp
+	"PutBox.h"
+
+1656026881 source:c:\users\ariel\desktop\thiago\thiago\putellipsoid.cpp
+	"PutEllipsoid.h"
+	<cmath>
+
+1656026959 source:c:\users\ariel\desktop\thiago\thiago\putsphere.cpp
+	"PutSphere.h"
+
+1656026997 source:c:\users\ariel\desktop\thiago\thiago\putvoxel.cpp
+	"PutVoxel.h"
+
+1656028141 source:c:\users\ariel\desktop\thiago\thiago\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstdlib>
+	<iomanip>
+
+1656026007 source:c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\cutbox.cpp
+	"CutBox.h"
+
+1656027463 c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\cutbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027887 c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\sculptor.h
+	<string>
+
+1656027672 c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\figurageometrica.h
+	"Sculptor.h"
+
+1656026158 source:c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\cutellipsoid.cpp
+	"CutEllipsoid.h"
+	<cmath>
+
+1656027672 c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\cutellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656026158 source:c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\cutsphere.cpp
+	"CutSphere.h"
+
+1656027671 c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\cutsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656026604 source:c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\cutvoxel.cpp
+	"CutVoxel.h"
+
+1656027672 c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\cutvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027981 source:c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\interpretador.cpp
+	"Interpretador.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"PutVoxel.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"CutBox.h"
+	"PutSphere.h"
+	"CutSphere.h"
+	"PutEllipsoid.h"
+	"CutEllipsoid.h"
+
+1656027932 c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\interpretador.h
+	<vector>
+	<string>
+	"FiguraGeometrica.h"
+
+1656027671 c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\putvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027672 c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\putbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027672 c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\putsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027671 c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\putellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1656027986 source:c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	"Sculptor.h"
+	"Interpretador.h"
+
+1656026795 source:c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\putbox.cpp
+	"PutBox.h"
+
+1656026881 source:c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\putellipsoid.cpp
+	"PutEllipsoid.h"
+	<cmath>
+
+1656026959 source:c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\putsphere.cpp
+	"PutSphere.h"
+
+1656026997 source:c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\putvoxel.cpp
+	"PutVoxel.h"
+
+1656028141 source:c:\users\ariel\onedrive\documentos\projeto_pt2_pa\projeto_pt2_pa\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstdlib>
+	<iomanip>
+
